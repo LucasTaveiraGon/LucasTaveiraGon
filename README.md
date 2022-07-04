@@ -1,7 +1,9 @@
-### Hey, eu sou o Lucas Taveira 🙃
-- 🐝 Estudante de ADS
-- 🌱 As princpais linguagens que estudo Java, React, C#, (JS, CSS, HTML)
-- 💥 Aspirante a Back-End Junior
+## Hey, eu sou o Lucas Taveira 😼
+- 🐝 Estudante de GTI e Data Science
+- 💥 Desenvolvedor Back-End Junior
+  - Esse é o meu repositório de estudos e aqui eu vou guardando e postando os meus projetos pessoais e acompanhando minha evolução 😎
+    - ![DownsignQrCodeGIF](https://user-images.githubusercontent.com/28627880/177197903-5ec456a4-6bb4-46fd-80bb-8c9723be1060.gif)
+ As princpais linguagens que estudo Java, Python, C#, (JS, CSS, HTML)
 
 <div align="center">
   <a href="https://github.com/LucasTaveiraGon">
